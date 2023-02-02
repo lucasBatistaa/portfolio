@@ -1,13 +1,13 @@
 {
     "skills": [
-        "src/assets/skill.svg",
-        "src/assets/skill-1.svg",
-        "src/assets/skill-2.svg",
-        "src/assets/skill-3.svg",
-        "src/assets/skill-4.svg",
-        "src/assets/skill-5.svg",
-        "src/assets/skill-6.svg",
-        "src/assets/skill-7.svg"
+        "public/skill.svg",
+        "public/skill-1.svg",
+        "public/skill-2.svg",
+        "public/skill-3.svg",
+        "public/skill-4.svg",
+        "public/skill-5.svg",
+        "public/skill-6.svg",
+        "public/skill-7.svg"
     ],
     "portfolio": [
         "https://picsum.photos/550/400",

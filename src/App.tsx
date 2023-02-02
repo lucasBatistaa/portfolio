@@ -17,7 +17,7 @@ export function App() {
 				size: 32
 			}}
 		>
-			<div className='w-screen h-screen flex flex-col overflow-x-hidden scroll-smooth scrollbar-thin scrollbar-thumb-blue-900 dark:scrollbar-thumb-blue-300 scrollbar-thumb-rounded-full '>
+			<div className='w-screen h-screen flex flex-col overflow-x-hidden scroll-smooth lg:scrollbar-thin lg:scrollbar-thumb-blue-900 lg:dark:scrollbar-thumb-blue-300 lg:scrollbar-thumb-rounded-full '>
 				<Header />
 				<Start />
 

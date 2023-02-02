@@ -9,7 +9,7 @@ export function AboutMe() {
         >
             <div>
                 <h1 className="text-5xl font-bold mb-5">Sobre mim.</h1>
-                <p className="text-xl font-light">
+                <p className="text-xl font-light sm:text-justify">
                     Atualmente estou no 3º semestre da faculdade de Análise e Desenvolvimento de Sistemas(ADS) e junto faço estágio na prefeitura de minha cidade. Comecei os estudos na área a 4 anos atrás, em 2019. De lá para cá tem sido muito aprendizado e cada vez mais experiência adquirida. Hoje estou focado nos estudos de React e JavaScript, juntamente com UI e UX design.
                 </p>
             </div>

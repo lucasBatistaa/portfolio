@@ -20,7 +20,7 @@ export function Start() {
 
                     </div>
 
-                    <p className="text-xl">Estudo a 4 anos na área, melhorando cada vez mais na criação de aplicações. Desde o design ao código, com o objetivo de causar impactos positivos, layouts responsivos e explorar a criatividade.</p>
+                    <p className="text-xl sm:text-justify">Estudo a 4 anos na área, melhorando cada vez mais na criação de aplicações. Desde o design ao código, com o objetivo de causar impactos positivos, layouts responsivos e explorar a criatividade.</p>
 
                     <div className="flex gap-2 my-8 max-lg:justify-center">
                         <SocialMedia icon={<LinkedinLogo className="text-linkedin" />} link="https://www.linkedin.com/in/lucas-batista-tech/" />
@@ -31,7 +31,7 @@ export function Start() {
                 </div>
 
                 <div className="flex-1 flex justify-end max-lg:justify-center">
-                    <img src="src/assets/perfil.jpg" alt="Imagem" className="w-80 h-max rounded-lg" />
+                    <img src="public/perfil.jpg" alt="Imagem" className="w-80 h-max rounded-lg" />
                 </div>
             </div>
 
